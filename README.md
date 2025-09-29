@@ -1,6 +1,6 @@
 # 🚙 CRUSCOTTO DI UNA MACCHINA CLI IN ASSEMBLY(AT&T)
 
-## BREVE DESCRIZIONE:
+## DESCRIZIONE:
 Elaborato sviluppato in coppia per l'esame di Architettura degli Elaboratori (laboratorio) [Anno 2023].  
 
 Il progetto consiste nella gestione del menù cruscotto di un’automobile.  
