@@ -8,7 +8,11 @@ Il menù dovrà permettere la visualizzazione di 5 voci se acceduto in modalità
 Data - Ora - Impostazione blocco automatico porte - Back home - Check olio  
   
 In modalità ‘supervisor’ invece oltre alle precedenti, ne verranno visualizzate altre due:  
-Lampeggi frecce modalità autostrada - Reset pressione gomme  
+Lampeggi frecce modalità autostrada - Reset pressione gomme 
+
+Per avviare il programma:
+- Supervisor: lanciando da riga di comando il nome dell’eseguibile seguito dal codice ‘2244’.  
+- Utente: lanciando solo il nome dell’eseguibile da riga di comando.  
 
 
 ## NOTE
