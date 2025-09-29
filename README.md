@@ -1,8 +1,6 @@
 # 🚙 Menù cruscotto di una macchina in Assembly(AT&T)
 
 ## DESCRIZIONE:
-Elaborato sviluppato in coppia per l'esame di Architettura degli Elaboratori (laboratorio) [Anno 2023].  
-
 Il progetto consiste nella gestione del menù cruscotto di un’automobile.  
 Il menù dovrà permettere la visualizzazione di 5 voci se acceduto in modalità utente:  
 Data - Ora - Impostazione blocco automatico porte - Back home - Check olio  
