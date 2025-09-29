@@ -1,4 +1,4 @@
-# 🚙 CRUSCOTTO DI UNA MACCHINA CLI IN ASSEMBLY(AT&T)
+# 🚙 Menù cruscotto cli di una macchina in Assembly(AT&T)
 
 ## DESCRIZIONE:
 Elaborato sviluppato in coppia per l'esame di Architettura degli Elaboratori (laboratorio) [Anno 2023].  
